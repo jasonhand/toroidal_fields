@@ -1,5 +1,7 @@
 # Toroidal Fields: Sound-Light Interference & The Genesis of Matter
 
+![screenshot](screenshot.png)
+
 ## Overview
 
 This interactive visualization demonstrates the profound scientific principle that **matter emerges from organized wave interference patterns**. By exploring the interaction between sound frequencies and light waves, we can observe how the fundamental forces of nature create the geometric templates that organize energy into physical matter.
