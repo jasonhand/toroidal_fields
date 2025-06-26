@@ -8,6 +8,8 @@ This interactive visualization demonstrates the profound scientific principle th
 
 The project reveals how **cymatics** (the study of visible sound) provides a window into understanding the deepest mechanisms of material creation - showing that the same interference patterns found in sound waves are identical to those governing atomic orbitals, crystal formations, and even biological structures.
 
+READ: [How Music Festivals Heal You Through sound and light waves](festival_healing_principles.md)
+
 ---
 
 ## The Science: From Waves to Matter
